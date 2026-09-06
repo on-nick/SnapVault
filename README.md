@@ -1,3 +1,4 @@
+![Repo Views](https://komarev.com/ghpvc/?username=on-nick&repo=SnapVault=Repo%20Views&color=blue&style=flat)
 # SnapVault
 
 Back up photos and videos from an Android phone (connected via USB/MTP) to a
